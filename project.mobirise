@@ -540,7 +540,7 @@
           "title1": "Katarzyna Sulik",
           "subtitle1": "pedagog, terapeuta, polonista",
           "caption1": "Kasia jest terapeutą spejalizującą się w pracy z dziećmi. Rozwoązuje problemy wychowawcze, podnosi wartość osobistą, prowadiz kwestie doracze. Skupia się również na pracy z dziećmi zaburzonymi intelektualnie i rozwojowo.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://ks.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ...</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://ks.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ...</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bd-600x1000.jpg",
@@ -556,7 +556,7 @@
           "title2": "Barbara Duch",
           "subtitle2": "psycholog, terapeuta systemowy",
           "caption2": "Basia z pewnością jest jednym z najlepszych psychologów jakich poznałem. Ma rewelacyjne podejście do rodzin. Basia pracuje również z osobami posiadającymi trudności personalne oraz organizuje zajęcia psychoedukacyjne.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://bd.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://bd.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/esz-600x1000.jpg",
@@ -572,7 +572,7 @@
           "title3": "Ewa Szylkiewicz",
           "subtitle3": "pedagog, teraputa logopedyczny, anglistyk",
           "caption3": "Ewa rewelacyjnie prowadzi zajęcia logopedyczne dla dzieci, młodzieży i dorosłych. Angażuje się w sprawy każdego klienta i dzięki temu posiada ogromne osiągi na tle zawodowym. Jako anglistyk prowadzi również zajęcia z j. anglielskiego.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://esz.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://esz.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/jjm-600x1000.jpg",
@@ -588,7 +588,7 @@
           "title4": "Justyna Mieniek",
           "subtitle4": "terapeuta poznawczo-behawioralny, <br>coach par i małżeństw",
           "caption4": "Justyna jest terapeutą poznawczo-behawioralnym co oznacza, żę skupia się na zachowaniach ludzi. Ma ogromne doświadczenie związne z terapią online, czyli przez Internet.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://jjm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://jjm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mm-600x1000.jpg",
@@ -604,7 +604,7 @@
           "title5": "Mateusz Mikołajewicz",
           "subtitle5": "młodzieżowy coach",
           "caption5": "Mateusz jako coach pracujący z młodzieżą ustala cele, pragnienia oraz motywuje do nauki czy pracy nad sobą. W obszarze jego kompetencji znajdują się również kwestie zwiazane z doradztwem personalnym i zawodowym.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"http://mm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
