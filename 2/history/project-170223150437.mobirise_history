@@ -163,10 +163,9 @@
               "name": "hearth",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "newWindow": false
+              "color": "#fff"
             }
           },
           "title1": "Terapia Indywidualna",
@@ -180,10 +179,9 @@
               "name": "book-open",
               "family": "et-line",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "newWindow": false
+              "color": "#fff"
             }
           },
           "title2": "Life &amp; Business&nbsp;Coaching",
@@ -197,10 +195,9 @@
               "name": "users",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "newWindow": false
+              "color": "#fff"
             }
           },
           "title3": "Poradnictwo Psychopedagogiczne",
@@ -214,10 +211,9 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "newWindow": false
+              "color": "#fff"
             }
           },
           "title4": "Diagnostyka <br>",
@@ -447,10 +443,6 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
-            "count": "3",
-            "showImages": false,
-            "showName": true,
-            "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pic04-1400x932.jpg",
@@ -460,7 +452,11 @@
             "overlayOpacity": "0.9",
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false
+            "showSubtitle": false,
+            "count": "3",
+            "showImages": false,
+            "showName": true,
+            "showBio": true
           },
           "title": "Co sądzą moi klienci?",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -493,18 +489,6 @@
             "Theme"
           ],
           "_name": "features3",
-          "_styles": {
-            "H5": {
-              "text-align": "center"
-            },
-            "SPAN": {
-              "font-size": "20px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
           "_anchor": "features3-1c",
           "_params": {
             "paddingTop": "0",
@@ -619,7 +603,19 @@
           "title6": "",
           "subtitle6": "<span style=\"font-style: normal;\"><b>Wojciech Kasprzyk</b></span><br>prawnik",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H5": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -750,30 +746,6 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "14px",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "font-size": "10px"
-            },
-            ".list-group-text": {
-              "font-size": "14px",
-              "color": "#ffffff"
-            },
-            "B": {
-              "font-size": "16px",
-              "text-align": "left",
-              "color": "#fac51c"
-            },
-            "STRONG": {
-              "color": "#cccccc"
-            }
-          },
           "_anchor": "contacts3-15",
           "_params": {
             "paddingTop": "1",
@@ -866,7 +838,31 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Napisz!</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Napisz!</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "14px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-size": "10px"
+            },
+            ".list-group-text": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-size": "16px",
+              "text-align": "left",
+              "color": "#fac51c"
+            },
+            "STRONG": {
+              "color": "#cccccc"
+            }
+          }
         }
       ]
     }
