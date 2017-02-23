@@ -763,7 +763,7 @@
               "color": "#ffffff"
             },
             "B": {
-              "font-size": "16px",
+              "font-size": "20px",
               "text-align": "left",
               "color": "#fac51c"
             },
@@ -801,7 +801,7 @@
               "size": 0
             }
           },
-          "text1": "<b>Polskie Towarzystwo Psychopedagogiczne</b>&nbsp;jest stowarzyszeniem ludzi zaangażowanych w sprawy lokalnych społeczności, pragnących uczestniczyć w działaniach naukowych z dziedziny oświaty, wychowania obywatelskiego i rozwoju człowieka.<br><br>WWW.PSYCHOPEDAGOG.EU",
+          "text1": "Polskie Towarzystwo Psychopedagogiczne&nbsp;jest stowarzyszeniem ludzi zaangażowanych w sprawy lokalnych społeczności, pragnących uczestniczyć w działaniach naukowych z dziedziny oświaty, wychowania obywatelskiego i rozwoju człowieka.<br><br>WWW.PSYCHOPEDAGOG.EU",
           "media1": {
             "iconFont": {
               "active": true,
@@ -834,7 +834,7 @@
           "text4": "<a href=\"mailto:dawid.kolodziej@psychopedagog.eu\" class=\"text-warning\">dawid.kolodziej@psychopedagog.eu</a>",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Poradnia Psychopedagogiczna <br>w Bolesławcu</strong><br>E-mail:<b> <a href=\"mailto:poradniabc@psychopedagog.eu\" class=\"text-warning\">poradniabc@psychopedagog.eu</a></b><br><b><br></b><br><b>Rejestracja: +48 733 349 538</b><br><br><br><br><strong>Adres Poradni Psychopedagogicznej</strong><br>59-700 Bolesławiec, ul. Tysiąclecia 2/5<br>",
+          "text6": "<strong>Poradnia Psychopedagogiczna <br>w Bolesławcu</strong><br>E-mail:<b> <a href=\"mailto:poradniabc@psychopedagog.eu\" class=\"text-warning\">poradniabc@psychopedagog.eu</a></b><br><b><br></b><br><b>Rejestracja: +48 733 349 538</b><br><br>WhatsApp: (+48) 733 349 538<br>GG: 4136117<br><br><strong>Adres Poradni Psychopedagogicznej</strong><br>59-700 Bolesławiec, ul. Tysiąclecia 2/5<br>",
           "form": {
             "title": "MESSAGE",
             "action": "dawid.kolodziej@psychopedagog.eu",
