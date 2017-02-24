@@ -26,10 +26,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-50260950-4', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": "",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "cookiesAlert": ""
   },
   "pages": {
     "index": {
@@ -877,7 +874,7 @@
           "text4": "<a href=\"mailto:dawid.kolodziej@psychopedagog.eu\" class=\"text-warning\">dawid.kolodziej@psychopedagog.eu</a>",
           "title1": "",
           "text5": "",
-          "text6": "<font color=\"#cccccc\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><font color=\"#cccccc\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Firma</b></span></font><br>Psychopedagog.eu Dawid Karol Kołodziej<br>59-700 Bolesławiec, ul. Teatralna 2/5<br>NIP:&nbsp;6121828675 | REGON:&nbsp;022410650<br><b><br></b>Poradnia Psychopedagogiczna w Bolesławcu<br>59-700 Bolesławiec, ul . Tysiąclecia 2<br><b>Rejestracja: +48 733 349 538</b><br><br>WhatsApp: (+48) 733 349 538<br>GG: 4136117<br>E-mail: poradniabc@psychopedagog.eu<br>",
+          "text6": "<font color=\"#cccccc\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br><font color=\"#cccccc\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Firma</b></span></font><br>Psychopedagog.eu Dawid Karol Kołodziej<br>59-700 Bolesławiec, ul. Teatralna 2/5<br>NIP:&nbsp;6121828675 | REGON:&nbsp;022410650<br><b><br></b>Poradnia Psychopedagogiczna w Bolesławcu<br>59-700 Bolesławiec, ul . Tysiąclecia 2<br><b>Rejestracja: +48 733 349 538</b><br><br>WhatsApp: (+48) 733 349 538<br>GG: 4136117<br>E-mail: poradniabc@psychopedagog.eu<br><br><b>Konto firmy</b><br>mBank: 65 1140 2004 0000 3602 5579 7599<br>",
           "form": {
             "title": "MESSAGE",
             "action": "dawid.kolodziej@psychopedagog.eu",
