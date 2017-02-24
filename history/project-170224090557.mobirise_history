@@ -26,8 +26,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-50260950-4', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": "",
-    "path": "@PROJECT_PATH@"
+    "cookiesAlert": ""
   },
   "pages": {
     "index": {
@@ -835,7 +834,7 @@
           "text4": "<a href=\"mailto:dawid.kolodziej@psychopedagog.eu\" class=\"text-warning\">dawid.kolodziej@psychopedagog.eu</a>",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Poradnia Psychopedagogiczna <br>w Bolesławcu</strong><br>E-mail:<b> <a href=\"mailto:poradniabc@psychopedagog.eu\" class=\"text-warning\">poradniabc@psychopedagog.eu</a></b><br><b><br></b><br><b>Rejestracja: +48 733 349 538</b><br><br>WhatsApp: (+48) 733 349 538<br>GG: 4136117<br><br><strong>Adres Poradnii Psychopedagogicznej</strong><br>59-700 Bolesławiec, ul. Tysiąclecia 2/5<br>",
+          "text6": "<strong>Poradnia Psychopedagogiczna <br>w Bolesławcu</strong><br>E-mail:<b> <a href=\"mailto:poradniabc@psychopedagog.eu\" class=\"text-warning\">poradniabc@psychopedagog.eu</a></b><br><b><br></b><br><b>Rejestracja: +48 733 349 538</b><br><br>WhatsApp: (+48) 733 349 538<br>GG: 4136117<br><br><strong>Adres Poradni Psychopedagogicznej</strong><br>59-700 Bolesławiec, ul. Tysiąclecia 2/5<br>",
           "form": {
             "title": "MESSAGE",
             "action": "dawid.kolodziej@psychopedagog.eu",
