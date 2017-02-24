@@ -490,6 +490,16 @@ h6,
   color: #000000;
   text-align: right;
 }
+#msg-box8-1p .mbr-section-title,
+#msg-box8-1p p {
+  color: #fff;
+}
+#msg-box8-1p .lead P {
+  color: #000000;
+}
+#msg-box8-1p .mbr-section-title {
+  color: #000000;
+}
 #social-buttons4-18 .mbr-section-title,
 #social-buttons4-18 .btn-social {
   color: #fff;
