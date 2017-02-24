@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -490,9 +491,25 @@ h6,
   color: #000000;
   text-align: right;
 }
+#msg-box8-1p .mbr-section-title,
+#msg-box8-1p p {
+  color: #fff;
+}
 #social-buttons4-18 .mbr-section-title,
 #social-buttons4-18 .btn-social {
   color: #fff;
+}
+#contacts3-1q SPAN {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+}
+#contacts3-1q H4 {
+  color: #ffffff;
+  font-size: 16px;
+}
+#contacts3-1q DIV {
+  font-size: 11px;
+  font-family: 'Ubuntu', sans-serif;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -562,25 +579,4 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
-}
-#contacts3-15 P {
-  text-align: left;
-  font-size: 14px;
-  font-family: 'Bitter', serif;
-  color: #ffffff;
-}
-#contacts3-15 SPAN {
-  font-size: 10px;
-}
-#contacts3-15 .list-group-text {
-  font-size: 14px;
-  color: #ffffff;
-}
-#contacts3-15 B {
-  font-size: 20px;
-  text-align: left;
-  color: #fac51c;
-}
-#contacts3-15 STRONG {
-  color: #cccccc;
 }
