@@ -28,7 +28,10 @@
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-50260950-4', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index": {
@@ -83,7 +86,7 @@
             "showButtons": true
           },
           "title": "Witaj,  nazywam się <br>Dawid Karol Kołodziej",
-          "text": "jestem pedagogiem, terapeutą, coachem<br>",
+          "text": "jestem pedagogiem, terapeutą, cachem<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index#header3-z\" data-toolbar=\"-mbrBtnMove\">Więcej...</a>"
         },
         {
@@ -187,7 +190,7 @@
           },
           "title2": "Life &amp; Business&nbsp;Coaching",
           "subtitle2": "Dla osób indywidualnych i firm",
-          "caption2": "Coaching, nazywany inaczej treningem personalnym, obejmuje dwie sfery: life oraz business. W kwestiach życiowych pomaga rozwinąć komunikację z ludźmi, poszerza również świadomość. W biznesie zaś skupia się na uwydatnianiu atrybutów niezbędnych w nowoczesnej przedsiębiorczości. Celuje w innowacyjność.",
+          "caption2": "Coaching czyli trening, określa pewien specyficzny proces edukacji. W sferze life czyli życie, tj. rodzina, komunikacja, emocje, asertywność, wartości itd., oraz business czyli kwestie związane z rozwojem biznesowym.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">Coaching przybiera różne formy i sposób pracy jest ustalany już na pierwszych spotkaniach.</span><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -221,7 +224,7 @@
           },
           "title4": "Diagnostyka <br>",
           "subtitle4": "Psychlogiczno - pedagogiczna i społeczna",
-          "caption4": "Diagnostyka jest procesem indywidualnym. Diagnostyka rodzinna przydaje się w sprawach rozwodowych, przyznania opieki nad dzieckiem lub karnych. W procesie diagnostycznym biorą udział również inni specjaliści. Jako pedagog uczestniczę również przy diagnostyce w problemach natury społecznej oraz prawnej.<br>",
+          "caption4": "Diagnostyka jest procesem indywidualnym. Diagnostyka rodzinna przedaje się w sprawach rozwodowych, przyznania opieki nad dzieckiem lub karnych. W procesie diagnostycznym biorą udział również inni specjaliści. Jako pedagog uczestniczę również przy diagnostyce w problemach natury społecznej oraz prawnej.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -380,8 +383,8 @@
             "paddingBottom": "2",
             "bgColor": "#502c84"
           },
-          "text1": "<h4>Wykształcenie formalne</h4><ul><li><b>2015 - 2016</b><br>Pedagogika II stopnia, resocjalizacja <br>z doradztwem zawodowym <br>i personalnym.</li><li><b>2013 - 2015</b><br>Pedagogika II stopnia, resocjalizacja <br>z socjoterapią.</li><li><b>2010 - 2013</b><br>Pedagogika I stopnia, reoscjalizacja z profilaktyką społeczną.</li></ul>",
-          "text2": "<h4>Kursy i certyfikaty</h4><ul><li><b>Terapia poznawczo - behawioralna.</b></li><li>Profesjonalny <b>Coaching</b>.</li><li>Umiejętności Interpersonalne.</li><li><b>Psychologia</b> Osobowości.</li><li>Terapia zajęciowa.</li><li><b>Przyjaciel Dużej Rodziny </b><br>(Urząd Miasta Bolesławiec).</li><li>Polecany specjalista (ABCzdrowie.pl)</li><li>Narzędzia informatyczne w tworzeniu multimediów.</li><li>Firma przyjazna internautom (Firmy.net).</li><li>Internetowe rewolucje (Google.pl).</li></ul>",
+          "text1": "<h4>Wykształcenie formalne</h4><ul><li><b>2016 - 2015</b><br>Pedagogika II stopnia, resocjalizacja <br>z doradztwem zawodowym <br>i personalnym.</li><li><b>2015 - 2013</b><br>Pedagogika II stopnia, resocjalizacja <br>z socjoterapią.</li><li><b>2013 - 2010</b><br>Pedagogika I stopnia, reoscjalizacja z profilaktyą społeczną.</li></ul>",
+          "text2": "<h4>Kursy i certyfikaty</h4><ul><li><b>Terapia poznawczo - behawioralna.</b></li><li>Profesjonalny <b>Coaching</b>.</li><li>Umiejętności Interpersonalne.</li><li><b>Psychologia</b> Osobowości.</li><li>Terapia zajęciowa.</li><li><b>Przyjaciel dużej rodziny </b><br>(Urząd miasta Bolesławiec).</li><li>Polecany specjalista (ABCzdrowie.pl)</li><li>Narzędzia informatyczne w tworzeniu multimediów.</li><li>Firma przyjazna internautom (Firmy.net).</li><li>Internetowe rewolucje (Google.pl).</li></ul>",
           "text3": "<h4>Pełnione funkcje</h4><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>od 2015 roku<br></b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Prezes Zarządu Głównego Polskiego Towarzystwa Psychopedagogicznego</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><ul><li><b>od 2014 roku<br></b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Właściciel <br>Poradni Psychopedagogicznej&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Psychopedagog.eu</span></li></ul>"
         },
         {
@@ -557,7 +560,7 @@
           },
           "title2": "Barbara Duch",
           "subtitle2": "psycholog, terapeuta systemowy",
-          "caption2": "Basia z pewnością jest jednym z najlepszych psychologów, jakich poznałem. Ma rewelacyjne podejście do rodzin. Basia pracuje również z osobami posiadającymi trudności personalne oraz organizuje zajęcia psychoedukacyjne.",
+          "caption2": "Basia z pewnością jest jednym z najlepszych psychologów jakich poznałem. Ma rewelacyjne podejście do rodzin. Basia pracuje również z osobami posiadającymi trudności personalne oraz organizuje zajęcia psychoedukacyjne.",
           "button2": "<a data-app-btn=\"true\" href=\"http://bd.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
           "media3": {
             "image": {
@@ -589,7 +592,7 @@
           },
           "title4": "Justyna Mieniek",
           "subtitle4": "terapeuta poznawczo-behawioralny, <br>coach par i małżeństw",
-          "caption4": "Justyna jest terapeutą poznawczo-behawioralnym, co oznacza, że skupia się na zachowaniach ludzi. Ma ogromne doświadczenie związane z terapią online, czyli przez Internet.",
+          "caption4": "Justyna jest terapeutą poznawczo-behawioralnym co oznacza, że skupia się na zrachowaniach ludzi. Ma ogromne doświadczenie związane z terapią online, czyli przez Internet.",
           "button4": "<a data-app-btn=\"true\" href=\"http://jjm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
           "media5": {
             "image": {
