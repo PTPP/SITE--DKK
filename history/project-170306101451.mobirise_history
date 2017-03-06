@@ -21,14 +21,17 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 63,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-50260950-4', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index": {
@@ -520,7 +523,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "6",
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -577,7 +580,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"http://esz.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ...</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jjm-1-600x1000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jjm-600x1000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -616,9 +619,9 @@
             }
           },
           "title6": "",
-          "subtitle6": "<span style=\"font-style: normal;\"><b>Więcej...</b></span><br>Zobacz cały zespół naszych specjalistów",
-          "caption6": "To nie wszyscy! Jest nas zbyt wielu by umieścić tu wszystkich. Zapraszamy na podstronę z listą naszych &nbsp;specjalistów.",
-          "button6": "<a data-app-btn=\"true\" href=\"index#features3-1c\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">W BUDOWIE</a>"
+          "subtitle6": "<span style=\"font-style: normal;\"><b>Wojciech Kasprzyk</b></span><br>prawnik",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -655,54 +658,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1s",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#ffffff",
-            "showMeta": true
-          },
-          "title": "<p>Aktualności</p>",
-          "meta": "sprawdź co ciekawego u mnie na Twitterze"
-        },
-        {
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-1r",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "youtube": "",
-            "facebook": "",
-            "twitter": "dafudo",
-            "google": "",
-            "postToLoad": "5",
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f"
-          },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
-        },
-        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -726,7 +681,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "ŚLEDŹ MNIE RÓWNIEŻ NA ...",
+          "text": "ŚLEDŹ MNIE NA ...",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/dafudo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/dafudo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://www.google.pl/?gws_rd=ssl#q=dawid+karol+ko%C5%82odziej+boles%C5%82awiec&amp;*\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/c/PsychopedagogeuTV\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/dafudo/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/dafudo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
