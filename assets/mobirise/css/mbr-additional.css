@@ -1,9 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-
 
 
 
@@ -475,21 +474,12 @@ h6,
 #testimonials3-17 .mbr-author-name {
   color: #ccc;
 }
-#header3-1b .mbr-section-title,
-#header3-1b .mbr-section-subtitle {
-  text-align: center;
+#msg-box1-1t H3 {
+  color: #ffffff;
 }
-#header3-1b H3 {
-  color: #000000;
-}
-#features3-1c H5 {
-  text-align: center;
-}
-#features3-1c SPAN {
-  font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
-  color: #000000;
-  text-align: right;
+#social-buttons4-18 .mbr-section-title,
+#social-buttons4-18 .btn-social {
+  color: #fff;
 }
 #msg-box8-1p .mbr-section-title,
 #msg-box8-1p p {
@@ -501,10 +491,6 @@ h6,
 }
 #header3-1s H3 {
   color: #000000;
-}
-#social-buttons4-18 .mbr-section-title,
-#social-buttons4-18 .btn-social {
-  color: #fff;
 }
 #contacts3-1q SPAN {
   color: #ffffff;
