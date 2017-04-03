@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 67,
+    "uniqCompNum": 66,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -504,42 +504,31 @@
           "title": "Zobacz specjalistów PTPP!"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "H2": {
-              "color": "#cccccc"
-            }
-          },
-          "_anchor": "msg-box1-1u",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-18",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "file:///C:/Users/aleks/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x1849.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": true
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.psychopedagog.eu/biblioteka/publikacje.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-bookmark mbr-iconfont mbr-iconfont-btn\"></span>POCZYTAJ</a>",
-          "text": "Zobacz biblioteczkę z publikacjami. Znajdziesz tam ciekawe teksty, które mogą Tobie pomóc, czegoś nauczyć. Zobacz co piszą nasi specjaliści!",
-          "title": "NASZE PUBLIKACJE PTPP"
+          "text": "ŚLEDŹ MNIE RÓWNIEŻ NA ...",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/dafudo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/dafudo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://www.google.pl/?gws_rd=ssl#q=dawid+karol+ko%C5%82odziej+boles%C5%82awiec&amp;*\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/c/PsychopedagogeuTV\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/dafudo/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/dafudo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_styles": {
@@ -574,33 +563,6 @@
           "title": "UMÓW SIĘ NA SESJĘ!",
           "text": "<p>Podania Psychopedagogiczna&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">w Bolesławcu&nbsp;<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">59-700 Bolesławiec, Aleja Tysiaclecia 2</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Rejestracja telefoniczna: +48 733 379 538</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Rejestracja Whatsapp: (+48) 733 379 538<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Rejestracja Gadu Gadu: 4136117<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">E-mail: poradniabc@psychopedagog.eu</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Przyjmuję w poradni oraz w formie online!</b></span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-18",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "ŚLEDŹ MNIE RÓWNIEŻ NA ...",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/dafudo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/dafudo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://www.google.pl/?gws_rd=ssl#q=dawid+karol+ko%C5%82odziej+boles%C5%82awiec&amp;*\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/c/PsychopedagogeuTV\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/dafudo/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/dafudo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_styles": {
