@@ -422,6 +422,7 @@ h6,
 #header5-l .mbr-section-lead {
   color: #ffffff;
   text-align: left;
+  font-size: 20px;
 }
 #header5-l .btn {
   font-family: 'Open Sans', sans-serif;
@@ -447,35 +448,11 @@ h6,
 #features7-x P {
   color: #000000;
 }
-#msg-box8-13 .mbr-section-title,
-#msg-box8-13 p {
-  color: #fff;
-}
-#msg-box8-13 .mbr-section-title {
-  font-size: 30px;
-}
-#content7-y H4 {
-  text-align: center;
-  color: #ffffff;
-}
-#content7-y DIV {
-  text-align: left;
-}
-#content7-y P {
-  text-align: left;
-  color: #ffffff;
-}
-#content7-y UL {
-  color: #ffffff;
-}
 #testimonials3-17 .mbr-section-title {
   color: #efefef;
 }
 #testimonials3-17 .mbr-author-name {
   color: #ccc;
-}
-#msg-box1-1t H3 {
-  color: #ffffff;
 }
 #msg-box1-1u H3 {
   color: #ffffff;
